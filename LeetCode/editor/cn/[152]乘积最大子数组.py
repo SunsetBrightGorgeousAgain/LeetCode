@@ -19,6 +19,7 @@
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
+"""
 class Solution:
     def maxProduct(self, nums) -> int:
         if len(nums) == 0:
@@ -34,4 +35,23 @@ class Solution:
                 min_res = cur_min
                 max_res = cur_max
             return res
+"""
+
+
+class Solution:
+    def maxProduct(self, nums) -> int:
+        if len(nums) == 0:
+            return 0
+        else:
+            min_res = nums[0]
+            max_res = nums[0]
+            res = nums[0]
+            for num in nums[1:]:
+                cur_max = max(min_res * num, max_res * num, num)
+                cur_min = min(min_res * num, max_res * num, num)
+                res = max(cur_max, res)
+                min_res = cur_min
+                max_res = cur_max
+            return max_res
+
 # leetcode submit region end(Prohibit modification and deletion)

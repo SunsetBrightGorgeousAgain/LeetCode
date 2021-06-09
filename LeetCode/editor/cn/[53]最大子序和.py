@@ -60,10 +60,24 @@ class Solution:
         if len(nums) == 0:
             return 0
         else:
+            res = nums[0]
+            cur_max = nums[0]
+            for num in nums[1:]:
+                cur_max = max(cur_max+num,num)
+                res = max(cur_max,res)
+            return res
+# leetcode submit region end(Prohibit modification and deletion)
+
+"""
+class Solution:
+    def maxSubArray(self, nums) -> int:
+        if len(nums) == 0:
+            return 0
+        else:
             max_res = nums[0]
             cur_max = nums[0]
             for num in nums[1:]:
                 cur_max = max(cur_max + num, num)   # 计算加入当前数值后的最大值
                 max_res = max(cur_max, max_res)
             return max_res
-# leetcode submit region end(Prohibit modification and deletion)
+"""

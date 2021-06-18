@@ -109,3 +109,42 @@ def sortedlist4(c_list, start, end):
 
 
 print(sortedlist4([1, 2, 3, 4, 8, 7, 7, 9, 9, 12], 0, len([1, 2, 3, 4, 8, 7, 7, 9, 9, 12]) - 1))
+
+
+def sortedlist5(l_list, start, end):
+    if start < end:
+        i = start
+        j = end
+        target = l_list[i]
+        while i < j and l_list[j] >= target:
+            j -= 1
+        swap(l_list, i, j)
+        while i < j and l_list[i] <= target:
+            i += 1
+        swap(l_list, i, j)
+        sortedlist5(l_list, start, i - 1)
+        sortedlist5(l_list, j + 1, end)
+    return l_list
+
+
+print(sortedlist5([1, 2, 3, 4, 8, 7, 7, 9, 9, 12], 0, len([1, 2, 3, 4, 8, 7, 7, 9, 9, 12]) - 1))
+
+
+def sortedlist6(olist, start, end):
+    if start < end:
+        i = start
+        j = end
+        target = olist[i]
+        while i < j and olist[j] >= target:
+            j -= 1
+        swap(olist, i, j)
+
+        while i < j and olist[i] <= target:
+            i += 1
+        swap(olist, i, j)
+        sortedlist6(olist, start, i - 1)
+        sortedlist6(olist, j + 1, end)
+    return olist
+
+
+print(sortedlist5([1, 2, 3, 4, 8, 7, 7, 9, 9, 12], 0, len([1, 2, 3, 4, 8, 7, 7, 9, 9, 12]) - 1))

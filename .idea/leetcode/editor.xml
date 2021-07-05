@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1189]“气球” 的最大数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1189]“气球” 的最大数量.py" />
+              <option name="questionId" value="1297" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[125]验证回文串.py">
           <value>
             <LeetcodeEditor>
@@ -83,6 +91,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[197]上升的温度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[197]上升的温度.py" />
+              <option name="questionId" value="197" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[290]单词规律.py">
           <value>
             <LeetcodeEditor>
@@ -123,11 +139,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[414]第三大的数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[414]第三大的数.py" />
+              <option name="questionId" value="414" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[500]键盘行.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[500]键盘行.py" />
+              <option name="questionId" value="500" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[53]最大子序和.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[53]最大子序和.py" />
               <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[575]分糖果.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[575]分糖果.py" />
+              <option name="questionId" value="575" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -187,6 +227,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[862]和至少为 K 的最短子数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[862]和至少为 K 的最短子数组.py" />
+              <option name="questionId" value="892" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[88]合并两个有序数组.py">
           <value>
             <LeetcodeEditor>
@@ -216,6 +264,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[997]找到小镇的法官.py" />
               <option name="questionId" value="1039" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[LCP 18]早餐组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[LCP 18]早餐组合.py" />
+              <option name="questionId" value="1000146" />
             </LeetcodeEditor>
           </value>
         </entry>

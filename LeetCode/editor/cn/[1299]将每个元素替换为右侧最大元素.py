@@ -65,8 +65,11 @@ class Solution:
 
 # leetcode submit region end(Prohibit modification and deletion)
 A = Solution()
-print(A.replaceElements(arr=[17, 18, 5, 4, 6, 1]))
-print(A.replaceElements(arr=[400]))
-# arr = [17, 18, 5, 4, 6, 1]
-# for i in arr[::-1]:
-#     print(i)
+# print(A.replaceElements(arr=[17, 18, 5, 4, 6, 1]))
+# print(A.replaceElements(arr=[400]))
+arr = [17, 18, 5, 4, 6, 1]
+for i in arr[-len(arr):-1:]:
+    print(i)
+print('----')
+for i in arr[::]:
+    print(i)

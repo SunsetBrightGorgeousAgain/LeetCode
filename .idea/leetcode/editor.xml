@@ -67,6 +67,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1700]无法吃午餐的学生数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1700]无法吃午餐的学生数量.py" />
+              <option name="questionId" value="1802" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[176]第二高的薪水.py">
           <value>
             <LeetcodeEditor>
@@ -96,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[182]查找重复的电子邮箱.py" />
               <option name="questionId" value="182" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1909]删除一个元素使数组严格递增.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1909]删除一个元素使数组严格递增.py" />
+              <option name="questionId" value="2020" />
             </LeetcodeEditor>
           </value>
         </entry>

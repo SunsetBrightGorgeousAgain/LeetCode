@@ -27,11 +27,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1217]玩筹码.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1217]玩筹码.py" />
+              <option name="questionId" value="1329" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[125]验证回文串.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[125]验证回文串.py" />
               <option name="questionId" value="125" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1275]找出井字棋的获胜者.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1275]找出井字棋的获胜者.py" />
+              <option name="questionId" value="1400" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -72,6 +88,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1700]无法吃午餐的学生数量.py" />
               <option name="questionId" value="1802" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1716]计算力扣银行的钱.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1716]计算力扣银行的钱.py" />
+              <option name="questionId" value="1817" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -344,6 +368,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[LCP 18]早餐组合.py" />
               <option name="questionId" value="1000146" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[LCS 01]下载插件.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[LCS 01]下载插件.py" />
+              <option name="questionId" value="1000225" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 01.04]回文排列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 01.04]回文排列.py" />
+              <option name="questionId" value="100184" />
             </LeetcodeEditor>
           </value>
         </entry>

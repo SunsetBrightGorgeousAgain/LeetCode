@@ -29,3 +29,6 @@ def quick_sorted(unsorted_list, start, end):
 alist = [1, 43, 2, 5, 7, 8, 4]
 sorted_list = quick_sorted(alist, 0, len(alist) - 1)
 print(sorted_list)
+
+a = [1, 2, 6, 3, 1, 454, 65, 1, 9]
+print(quick_sorted(a, 0, len(a) - 1))

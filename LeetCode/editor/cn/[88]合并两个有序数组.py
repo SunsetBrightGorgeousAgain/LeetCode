@@ -40,18 +40,19 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        if m>=1:
+        if m >= 1:
             x = nums1[0:m]
         else:
             x = []
-        if n>=1:
+        if n >= 1:
             y = nums2[0:n]
         else:
             y = []
 
-        nums1 = x+y
+        nums1 = x + y
         nums1 = sorted(nums1)
 
-A=Solution()
-print(A.merge([1,2,3,0,0,0],3,[2,5,6],3))
+
+A = Solution()
+print(A.merge([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3))
 # leetcode submit region end(Prohibit modification and deletion)

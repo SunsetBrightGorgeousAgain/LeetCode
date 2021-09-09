@@ -46,7 +46,7 @@ class Solution:
         value_list = sorted(value_list)
         s = 0
         j = 0
-
+        print(value_sum)
         for i in value_list:
             while s < value_sum / 2:
                 if i >= 2:
@@ -61,4 +61,4 @@ class Solution:
 # leetcode submit region end(Prohibit modification and deletion)
 A = Solution()
 print(A.distributeCandies([1, 1, 2, 2, 3, 3]))
-print(A.distributeCandies([1,1,2,3]))
+# print(A.distributeCandies([1, 1, 2, 3]))

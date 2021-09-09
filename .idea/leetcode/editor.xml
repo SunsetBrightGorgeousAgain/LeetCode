@@ -59,11 +59,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1512]好数对的数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1512]好数对的数目.py" />
+              <option name="questionId" value="1635" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[152]乘积最大子数组.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[152]乘积最大子数组.py" />
               <option name="questionId" value="152" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1608]特殊数组的特征值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1608]特殊数组的特征值.py" />
+              <option name="questionId" value="1730" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -128,6 +144,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[182]查找重复的电子邮箱.py" />
               <option name="questionId" value="182" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[1876]长度为三且各字符不同的子字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[1876]长度为三且各字符不同的子字符串.py" />
+              <option name="questionId" value="1987" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -379,6 +403,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[LCP 33]蓄水.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[LCP 33]蓄水.py" />
+              <option name="questionId" value="1000221" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[LCS 01]下载插件.py">
           <value>
             <LeetcodeEditor>
@@ -387,11 +419,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[剑指 Offer II 059]数据流的第 K 大数值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[剑指 Offer II 059]数据流的第 K 大数值.py" />
+              <option name="questionId" value="1000323" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 01.04]回文排列.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 01.04]回文排列.py" />
               <option name="questionId" value="100184" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 03.06]动物收容所.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 03.06]动物收容所.py" />
+              <option name="questionId" value="100228" />
             </LeetcodeEditor>
           </value>
         </entry>

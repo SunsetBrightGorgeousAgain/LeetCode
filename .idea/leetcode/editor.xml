@@ -182,6 +182,7 @@
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[197]上升的温度.py">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/cn/doc/content/[197]上升的温度.md" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[197]上升的温度.py" />
               <option name="questionId" value="197" />
             </LeetcodeEditor>
@@ -206,6 +207,7 @@
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[263]丑数.py">
           <value>
             <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/cn/doc/content/[263]丑数.md" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[263]丑数.py" />
               <option name="questionId" value="263" />
             </LeetcodeEditor>
@@ -224,6 +226,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[2]两数相加.py" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[342]4的幂.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/cn/doc/content/[342]4的幂.md" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[342]4的幂.py" />
+              <option name="questionId" value="342" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -264,6 +275,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[463]岛屿的周长.py" />
               <option name="questionId" value="463" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[482]密钥格式化.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/cn/doc/content/[482]密钥格式化.md" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[482]密钥格式化.py" />
+              <option name="questionId" value="482" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -384,6 +404,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[922]按奇偶排序数组 II.py" />
               <option name="questionId" value="958" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[953]验证外星语词典.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/cn/doc/content/[953]验证外星语词典.md" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[953]验证外星语词典.py" />
+              <option name="questionId" value="990" />
             </LeetcodeEditor>
           </value>
         </entry>

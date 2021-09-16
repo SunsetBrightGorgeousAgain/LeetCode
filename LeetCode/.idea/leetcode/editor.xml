@@ -3,6 +3,33 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/editor/cn/[1046]最后一块石头的重量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1046]最后一块石头的重量.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1046]最后一块石头的重量.py" />
+              <option name="questionId" value="1127" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1221]分割平衡字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1221]分割平衡字符串.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1221]分割平衡字符串.py" />
+              <option name="questionId" value="1341" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1275]找出井字棋的获胜者.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1275]找出井字棋的获胜者.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1275]找出井字棋的获胜者.py" />
+              <option name="questionId" value="1400" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[1287]有序数组中出现次数超过25%的元素.py">
           <value>
             <LeetcodeEditor>
@@ -18,6 +45,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[482]密钥格式化.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[482]密钥格式化.py" />
               <option name="questionId" value="482" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[575]分糖果.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[575]分糖果.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[575]分糖果.py" />
+              <option name="questionId" value="575" />
             </LeetcodeEditor>
           </value>
         </entry>

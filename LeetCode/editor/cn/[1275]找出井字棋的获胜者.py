@@ -82,91 +82,135 @@ class Solution:
     def tictactoe(self, moves: List[List[int]]) -> str:
 """
 
-
-# leetcode submit region begin(Prohibit modification and deletion)
+"""
 class Solution:
     def tictactoe(self, moves) -> str:
+        all_list = list()
         n = 3
-        m_list = [i for i in range(n * n)]
-        for i, one_move in enumerate(moves):
+        jiao_dict = dict()
+        left_jiao_dict = dict()
+        for i in range(n):
+            col_dict = dict()  # 行
+            row_dict = dict()  # 列
+            for j in range(n):
+                col_dict[i * n + j] = 0
+                row_dict[i + j * n] = 0
+            if i * n + i <= n * n - 1:
+                jiao_dict[i * n + i] = 0
+                left_jiao_dict[i * n + n - i - 1] = 0
+                if i == n - 1:
+                    all_list.append(jiao_dict)
+                    all_list.append(left_jiao_dict)
+            all_list.append(col_dict)
+            all_list.append(row_dict)
+            # 两个斜对角
+        A = list()
+        B = list()
+
+        for i, j in enumerate(moves):
             if i % 2 == 0:
-                m = 'x'
-                l = n * one_move[0] + one_move[1]
-                m_list[l] = m
+                A.append(j[0] * n + j[1])
             else:
-                m = 'o'
-                l = n * one_move[0] + one_move[1]
-                m_list[l] = m
-        print(m_list)
-        for i in range(n):
-            times1 = 0
-            x = m_list[i]
-            for j in range(n):
-                if x == m_list[j*n]:
-                    times1 += 1
-                    if times1 == n:
-                        if x == 'x':
-                            return "A"
-                        else:
-                            return "B"
-                else:
-                    break
+                B.append(j[0] * n + j[1])
 
-        for i in range(n):
-            x = m_list[i*n]
-            times2 = 0
-            for j in range(n):
-                if x == m_list[i*n+j]:
-                    times2 += 1
-                    if times2 == n:
-                        if x == 'x':
-                            return "A"
-                        else:
-                            return "B"
-                else:
-                    break
-
-        # 斜对角.考虑
-        target = m_list[0]
-        times3 = 0
-        for j in range(n):
-            if target == m_list[j * n + j]:
-                times3 += 1
-                if times3 == n:
-                    if target == 'x':
-                        return "A"
-                    else:
-                        return "B"
-            else:
-                break
-
-        target2 = m_list[n-1]
-        times4 = 0
-        for j in range(n):
-            if target2 == m_list[(j+1)*n - j]:
-                times4 += 1
-                if times4 == n:
-                    if target2 == 'x':
-                        return "A"
-                    else:
-                        return "B"
-            else:
-                break
-
-        if len(moves) == n*n:
-            return "Draw"
-        else:
+        if len(A) <= 2:
             return "Pending"
+        else:
+            a_list = []
+            for i in A:
+                for j in A:
+                    for l in A:
+                        if l != i and l != j and j != i:
+                            a_dict = dict()
+                            a_dict[i] = 0
+                            a_dict[j] = 0
+                            a_dict[l] = 0
+                            a_list.append(a_dict)
 
+            b_list = []
+            for i in B:
+                for j in B:
+                    for l in B:
+                        if l != i and l != j and j != i:
+                            b_dict = dict()
+                            b_dict[i] = 0
+                            b_dict[j] = 0
+                            b_dict[l] = 0
+                            b_list.append(b_dict)
+
+            for i in a_list:
+                if i in all_list:
+                    return "A"
+            for i in b_list:
+                if i in all_list:
+                    return "B"
+            if len(moves) == n * n:
+                return "Draw"
+            else:
+                return "Pending"
+
+"""
+# leetcode submit region begin(Prohibit modification and deletion)
+
+
+class Solution:
+    def tictactoe(self, moves) -> str:
+        all_list = list()
+        n = 3
+        jiao_dict = dict()
+        left_jiao_dict = dict()
+        for i in range(n):
+            col_dict = dict()  # 行
+            row_dict = dict()  # 列
+            for j in range(n):
+                col_dict[i * n + j] = 0
+                row_dict[i + j * n] = 0
+            if i * n + i <= n * n - 1:
+                jiao_dict[i * n + i] = 0
+                left_jiao_dict[i * n + n - i - 1] = 0
+                if i == n - 1:
+                    all_list.append(jiao_dict)
+                    all_list.append(left_jiao_dict)
+            all_list.append(col_dict)
+            all_list.append(row_dict)
+            # 两个斜对角
+        A = list()
+        B = list()
+
+        for i, j in enumerate(moves):
+            if i % 2 == 0:
+                A.append(j[0] * n + j[1])
+            else:
+                B.append(j[0] * n + j[1])
+
+        if len(A) <= 2:
+            return "Pending"
+        else:
+            a_list = self.deal_list(A)
+            b_list = self.deal_list(B)
+
+            for i in a_list:
+                if i in all_list:
+                    return "A"
+            for i in b_list:
+                if i in all_list:
+                    return "B"
+            if len(moves) == n * n:
+                return "Draw"
+            else:
+                return "Pending"
+
+    def deal_list(self,A):
+        a_list = []
+        for i in A:
+            for j in A:
+                for l in A:
+                    if l != i and l != j and j != i:
+                        a_dict = dict()
+                        a_dict[i] = 0
+                        a_dict[j] = 0
+                        a_dict[l] = 0
+                        a_list.append(a_dict)
+        return a_list
 # leetcode submit region end(Prohibit modification and deletion)
-"""
 
-# print(A.tictactoe([[0,0],[2,0],[1,1],[2,1],[2,2]]))
-print(A.tictactoe([[0,0],[1,1],[0,1],[0,2],[1,0],[2,0]]))
-print(A.tictactoe([[0,0],[1,1]]))
-print(A.tictactoe([[0,0],[1,1],[2,0],[1,0],[1,2],[2,1],[0,1],[0,2],[2,2]]))
-"""
-A = Solution()
-# print(A.tictactoe([[2,2],[0,2],[1,0],[0,1],[2,0],[0,0]]))
-# print(A.tictactoe([[1,0],[0,1],[0,0],[2,0],[1,1],[2,1],[1,2]]))
-print(A.tictactoe([[2,0],[1,1],[0,2],[2,1],[1,2],[1,0],[0,0],[0,1]]))

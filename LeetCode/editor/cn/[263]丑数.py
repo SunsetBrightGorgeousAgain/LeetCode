@@ -49,5 +49,20 @@
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def isUgly(self, n: int) -> bool:
-        pass
+        if n <= 0:
+            return False
+        while n % 2 == 0:
+            n = n / 2
+
+        while n % 3 == 0:
+            n = n / 3
+
+        while n % 5 == 0:
+            n = n / 5
+
+        if n == 1:
+            return True
+        else:
+            return False
+
 # leetcode submit region end(Prohibit modification and deletion)

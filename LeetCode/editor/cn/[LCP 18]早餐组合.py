@@ -59,9 +59,7 @@ class Solution:
                         break
         return r
 """
-
-
-# leetcode submit region begin(Prohibit modification and deletion)
+"""
 class Solution:
     def breakfastNumber(self, staple, drinks, x: int) -> int:
         staple.sort()
@@ -75,11 +73,30 @@ class Solution:
             while j <= (drinks_lens - 1) and staple[i] + drinks[j] <= x:
                 j += 1
             result += j
-        return result%1000000007
+        return result % 1000000007
+"""
 
+
+# leetcode submit region begin(Prohibit modification and deletion)
+
+
+class Solution:
+    def breakfastNumber(self, staple, drinks, x: int) -> int:
+        staple.sort()
+        drinks.sort()
+        l1 = len(staple)-1
+        l2 = 0
+        ll = len(drinks)
+        ans = 0
+        for i in range(l1,-1,-1):
+            while l2 < ll and staple[i]+drinks[l2] <= x:
+                l2+=1
+            ans += l2
+        return ans%1000000007
 
 # leetcode submit region end(Prohibit modification and deletion)
 
 A = Solution()
-print(A.breakfastNumber(staple = [10,20,5], drinks = [5,5,2], x = 15))
+print(A.breakfastNumber(staple=[10, 20, 5], drinks=[5, 5, 2], x=15))
 print(A.breakfastNumber(staple=[2, 1, 1], drinks=[8, 9, 5, 1], x=9))
+# [10,20,5] [5,5,2] 15

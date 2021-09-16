@@ -36,29 +36,19 @@
 class Solution:
     def distributeCandies(self, candyType) -> int:
         candy_dict = dict()
+        candy_type_list = list()
         for one_candy in candyType:
             candy_dict[one_candy] = candy_dict.get(one_candy, 0) + 1
-        value_list = list()
-        value_sum = 0
-        for value in candy_dict.values():
-            value_list.append(value)
-            value_sum += value
-        value_list = sorted(value_list)
-        s = 0
-        j = 0
-
-        for i in value_list:
-            while s < value_sum / 2:
-                if i >= 2:
-                    j += 1
-                    s += 1
-                else:
-                    j += 1
-                    s += 1
-        return j
+        for one_candy_type, one_candy_value in candy_dict.items():
+            candy_type_list.append(one_candy_type)
+        candy_part = len(candyType) // 2  # 每人分配到的.因为输入的一定为偶数
+        if len(candy_type_list) >= candy_part:  # 种类大于需要分配的糖果数量
+            return candy_part
+        else:
+            return len(candy_type_list)
 
 
 # leetcode submit region end(Prohibit modification and deletion)
 A = Solution()
 print(A.distributeCandies([1, 1, 2, 2, 3, 3]))
-print(A.distributeCandies([1,1,2,3]))
+print(A.distributeCandies([1, 1, 2, 3]))

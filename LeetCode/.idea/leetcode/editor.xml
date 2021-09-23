@@ -39,6 +39,60 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1413]逐步求和得到正数的最小值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1413]逐步求和得到正数的最小值.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1413]逐步求和得到正数的最小值.py" />
+              <option name="questionId" value="1514" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1464]数组中两元素的最大乘积.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1464]数组中两元素的最大乘积.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1464]数组中两元素的最大乘积.py" />
+              <option name="questionId" value="1574" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1700]无法吃午餐的学生数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1700]无法吃午餐的学生数量.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1700]无法吃午餐的学生数量.py" />
+              <option name="questionId" value="1802" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[1822]数组元素积的符号.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1822]数组元素积的符号.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1822]数组元素积的符号.py" />
+              <option name="questionId" value="1950" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[202]快乐数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[202]快乐数.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[202]快乐数.py" />
+              <option name="questionId" value="202" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[415]字符串相加.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[415]字符串相加.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[415]字符串相加.py" />
+              <option name="questionId" value="415" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[482]密钥格式化.py">
           <value>
             <LeetcodeEditor>
@@ -54,6 +108,33 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[575]分糖果.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[575]分糖果.py" />
               <option name="questionId" value="575" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 03]数组中重复的数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 03]数组中重复的数字.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 03]数组中重复的数字.py" />
+              <option name="questionId" value="100275" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 53 - I]在排序数组中查找数字 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 53 - I]在排序数组中查找数字 I.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 53 - I]在排序数组中查找数字 I.py" />
+              <option name="questionId" value="100329" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[剑指 Offer 57]和为s的两个数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[剑指 Offer 57]和为s的两个数字.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[剑指 Offer 57]和为s的两个数字.py" />
+              <option name="questionId" value="100322" />
             </LeetcodeEditor>
           </value>
         </entry>

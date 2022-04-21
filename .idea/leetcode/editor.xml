@@ -11,6 +11,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer 63]股票的最大利润.md" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" />
+              <option name="questionId" value="100344" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/cn/[112]路径总和.py">
           <value>
             <LeetcodeEditor>
@@ -477,6 +486,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/cn/[面试题 17.16]按摩师.py" />
               <option name="questionId" value="1000023" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer 63]股票的最大利润.md" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" />
+              <option name="questionId" value="100344" />
             </LeetcodeEditor>
           </value>
         </entry>

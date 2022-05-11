@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="更新代码">
-      <change afterPath="$PROJECT_DIR$/node,json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础/append的使用.py" afterDir="false" />
+    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="单层for循环单次买卖股票最大收益">
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[152]乘积最大子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[16]最接近的三数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[714]买卖股票的最佳时机含手续费.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[77]组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[88]合并两个有序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 49]丑数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer II 007]数组中和为 0 的三个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[152]乘积最大子数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[16]最接近的三数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[714]买卖股票的最佳时机含手续费.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[77]组合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[88]合并两个有序数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer 49]丑数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer II 007]数组中和为 0 的三个数.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +63,22 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.[剑指 Offer 63]股票的最大利润">
-    <configuration name="2.爬楼梯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.[16]最接近的三数之和">
+    <configuration name="剑指 Offer 63. 股票的最大利润" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/复习" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Pycharm" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/复习/2.爬楼梯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,20 +129,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[1046]最后一块石头的重量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="练习" />
+    <configuration name="[152]乘积最大子数组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/[1046]最后一块石头的重量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[152]乘积最大子数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,20 +150,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[326]3的幂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="练习" />
+    <configuration name="[16]最接近的三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/[326]3的幂.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[16]最接近的三数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,19 +194,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.2.爬楼梯" />
-      <item itemvalue="Python.[1046]最后一块石头的重量" />
-      <item itemvalue="Python.[326]3的幂" />
-      <item itemvalue="Python.append的使用" />
+      <item itemvalue="Python.剑指 Offer 63. 股票的最大利润" />
       <item itemvalue="Python.[剑指 Offer 63]股票的最大利润" />
+      <item itemvalue="Python.[152]乘积最大子数组" />
+      <item itemvalue="Python.append的使用" />
+      <item itemvalue="Python.[16]最接近的三数之和" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.[剑指 Offer 63]股票的最大利润" />
+        <item itemvalue="Python.[16]最接近的三数之和" />
         <item itemvalue="Python.append的使用" />
-        <item itemvalue="Python.2.爬楼梯" />
-        <item itemvalue="Python.[1046]最后一块石头的重量" />
-        <item itemvalue="Python.[326]3的幂" />
+        <item itemvalue="Python.[152]乘积最大子数组" />
+        <item itemvalue="Python.[剑指 Offer 63]股票的最大利润" />
+        <item itemvalue="Python.剑指 Offer 63. 股票的最大利润" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631805719020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="单层for循环单次买卖股票最大收益">
+      <created>1650508967763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650508967763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +270,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0是一个特殊数值，1是3的0次方，也就是0次幂" />
     <MESSAGE value="更新代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新代码" />
+    <MESSAGE value="单层for循环单次买卖股票最大收益" />
+    <option name="LAST_COMMIT_MESSAGE" value="单层for循环单次买卖股票最大收益" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+[{"node_id": 1, "label": "一级 1"}, {"node_id": 4, "label": "二级 1-1", "parent_id": 1}, {"node_id": 9, "label": "三级 1-1-1", "parent_id": 4}, {"node_id": 11, "label": "A", "parent_id": 9}, {"node_id": 12, "label": "B", "parent_id": 9}, {"node_id": 10, "label": "三级 1-1-xx", "parent_id": 4}, {"node_id": 2, "label": "一级 2"}, {"node_id": 5, "label": "二级 2-1", "parent_id": 2}, {"node_id": 6, "label": "二级 2-2", "parent_id": 2}, {"node_id": 3, "label": "一级 3"}, {"node_id": 7, "label": "二级 3-90", "parent_id": 3}, {"node_id": 80909090, "label": "二级 302", "parent_id": 3}]
+
+
+
+
+
+
+
+
+
+
+console.log(this.$refs.tree.getCheckedNodes())
+console.log(this.$refs.tree.getNode(data))

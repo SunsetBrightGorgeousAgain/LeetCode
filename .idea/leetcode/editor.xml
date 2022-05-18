@@ -488,6 +488,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[1550]存在连续三个奇数的数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/doc/content/[1550]存在连续三个奇数的数组.md" />
+              <option name="path" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[1550]存在连续三个奇数的数组.py" />
+              <option name="questionId" value="1293" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[2215]找出两数组的不同.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/doc/content/[2215]找出两数组的不同.md" />
+              <option name="path" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[2215]找出两数组的不同.py" />
+              <option name="questionId" value="1392" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="更新代码">
-      <change beforePath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/translation.json" afterDir="false" />
+    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="单层for循环单次买卖股票最大收益">
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[11]盛最多水的容器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[175]组合两个表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[306]累加数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[371]两整数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[628]三个数的最大乘积.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[70]爬楼梯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[11]盛最多水的容器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[175]组合两个表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[306]累加数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[371]两整数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[628]三个数的最大乘积.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[70]爬楼梯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,10 +145,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.[326]3的幂" />
-      <item itemvalue="Python.[1046]最后一块石头的重量" />
       <item itemvalue="Python.2.爬楼梯" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.[1046]最后一块石头的重量" />
+      <item itemvalue="Python.[326]3的幂" />
     </list>
     <recent_temporary>
       <list>

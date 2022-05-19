@@ -34,6 +34,25 @@ from typing import List
 
 
 class Solution:
+    def maxProfit(self, prices) -> int:
+        prices_len = len(prices)
+        if prices_len <= 1:
+            return 0
+        else:
+            price = prices[0]
+            res = 0
+            for i in range(prices_len):
+                if prices[i] >= price:
+                    res = max(prices[i] - price, res)
+                else:
+                    price = prices[i]
+        return res
+
+
+# leetcode submit region end(Prohibit modification and deletion)
+
+"""
+class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         prices_len = len(prices)
         if prices_len <= 1:
@@ -47,4 +66,4 @@ class Solution:
                 else:
                     price = prices[i]
         return res
-# leetcode submit region end(Prohibit modification and deletion)
+"""

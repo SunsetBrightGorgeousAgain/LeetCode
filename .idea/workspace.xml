@@ -4,21 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="单层for循环单次买卖股票最大收益">
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[11]盛最多水的容器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[175]组合两个表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[306]累加数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[371]两整数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[628]三个数的最大乘积.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[70]爬楼梯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[11]盛最多水的容器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[175]组合两个表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[306]累加数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[371]两整数之和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[628]三个数的最大乘积.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[70]爬楼梯.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Pycharm/剑指 Offer 63. 股票的最大利润.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" afterDir="false" />
+    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9">
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[17]电话号码的字母组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[18]四数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[25]K 个一组翻转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[42]接雨水.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[18]四数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[25]K 个一组翻转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[42]接雨水.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/note/[17]电话号码的字母组合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[11]盛最多水的容器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[152]乘积最大子数组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[16]最接近的三数之和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[175]组合两个表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[258]各位相加.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[306]累加数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[371]两整数之和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[628]三个数的最大乘积.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[70]爬楼梯.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[714]买卖股票的最佳时机含手续费.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[77]组合.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[88]合并两个有序数组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 49]丑数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer 63]股票的最大利润.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer II 007]数组中和为 0 的三个数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[11]盛最多水的容器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[152]乘积最大子数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[16]最接近的三数之和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[175]组合两个表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[258]各位相加.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[306]累加数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[371]两整数之和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[628]三个数的最大乘积.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[70]爬楼梯.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[714]买卖股票的最佳时机含手续费.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[77]组合.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[88]合并两个有序数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer 49]丑数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer 63]股票的最大利润.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer II 007]数组中和为 0 的三个数.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +67,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1w47SQYKIz7LLVE0HaXMdXY41j0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,37 +78,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunManager" selected="Python.2.爬楼梯">
-    <configuration name="2.爬楼梯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/复习" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/复习/2.爬楼梯.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/admin",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.[17]电话号码的字母组合">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,6 +128,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="[17]电话号码的字母组合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[17]电话号码的字母组合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[258]各位相加" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[258]各位相加.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[29]两数相除" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[29]两数相除.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="[326]3的幂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,16 +214,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2.爬楼梯" />
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.[17]电话号码的字母组合" />
       <item itemvalue="Python.[1046]最后一块石头的重量" />
+      <item itemvalue="Python.[258]各位相加" />
       <item itemvalue="Python.[326]3的幂" />
+      <item itemvalue="Python.[29]两数相除" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.爬楼梯" />
-        <item itemvalue="Python.[1046]最后一块石头的重量" />
+        <item itemvalue="Python.[17]电话号码的字母组合" />
+        <item itemvalue="Python.[29]两数相除" />
         <item itemvalue="Python.[326]3的幂" />
+        <item itemvalue="Python.[258]各位相加" />
+        <item itemvalue="Python.[1046]最后一块石头的重量" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631805719020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11盛水,其实就是底部长度*左右Y轴的短板(数值小的),所以说当底部长度变短的时候,向中间移动的时候,如果移动短边,面积只可能变小,所以要移动长边">
+      <created>1652952832776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652952832776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9">
+      <created>1654847514427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654847514427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,12 +292,13 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0是一个特殊数值，1是3的0次方，也就是0次幂" />
     <MESSAGE value="更新代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新代码" />
+    <MESSAGE value="11盛水,其实就是底部长度*左右Y轴的短板(数值小的),所以说当底部长度变短的时候,向中间移动的时候,如果移动短边,面积只可能变小,所以要移动长边" />
+    <MESSAGE value="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9" />
+    <option name="LAST_COMMIT_MESSAGE" value="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9" />
   </component>
 </project>

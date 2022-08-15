@@ -25,6 +25,83 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[17]电话号码的字母组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn17" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[17]电话号码的字母组合.py" />
+              <option name="titleSlug" value="letter-combinations-of-a-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[18]四数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[18]四数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn18" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[18]四数之和.py" />
+              <option name="titleSlug" value="4sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[200]岛屿数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[200]岛屿数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn200" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[200]岛屿数量.py" />
+              <option name="titleSlug" value="number-of-islands" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[258]各位相加.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[258]各位相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn258" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[258]各位相加.py" />
+              <option name="titleSlug" value="add-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[25]K 个一组翻转链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[25]K 个一组翻转链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn25" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[25]K 个一组翻转链表.py" />
+              <option name="titleSlug" value="reverse-nodes-in-k-group" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[29]两数相除.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[29]两数相除.md" />
+              <option name="frontendQuestionId" value="leetcode.cn29" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[29]两数相除.py" />
+              <option name="titleSlug" value="divide-two-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[42]接雨水.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[42]接雨水.md" />
+              <option name="frontendQuestionId" value="leetcode.cn42" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[42]接雨水.py" />
+              <option name="titleSlug" value="trapping-rain-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[77]组合.py">
           <value>
             <LeetcodeEditor>
@@ -69,21 +146,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[1550]存在连续三个奇数的数组.py">
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer II 103]最少的硬币数目.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/doc/content/[1550]存在连续三个奇数的数组.md" />
-              <option name="path" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[1550]存在连续三个奇数的数组.py" />
-              <option name="questionId" value="1293" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[2215]找出两数组的不同.py">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/doc/content/[2215]找出两数组的不同.md" />
-              <option name="path" value="$USER_HOME$/PycharmProjects/LeetCode/LeetCode/editor/cn/leetcode/editor/cn/[2215]找出两数组的不同.py" />
-              <option name="questionId" value="1392" />
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[剑指 Offer II 103]最少的硬币数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 103" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[剑指 Offer II 103]最少的硬币数目.py" />
+              <option name="titleSlug" value="gaM7Ch" />
             </LeetcodeEditor>
           </value>
         </entry>

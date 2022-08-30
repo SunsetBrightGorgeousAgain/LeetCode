@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[146]LRU 缓存.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[146]LRU 缓存.md" />
+              <option name="frontendQuestionId" value="leetcode.cn146" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[146]LRU 缓存.py" />
+              <option name="titleSlug" value="lru-cache" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[152]乘积最大子数组.py">
           <value>
             <LeetcodeEditor>
@@ -36,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[180]连续出现的数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[180]连续出现的数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn180" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[180]连续出现的数字.py" />
+              <option name="titleSlug" value="consecutive-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[18]四数之和.py">
           <value>
             <LeetcodeEditor>
@@ -44,6 +66,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[18]四数之和.py" />
               <option name="titleSlug" value="4sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[196]删除重复的电子邮箱.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[196]删除重复的电子邮箱.md" />
+              <option name="frontendQuestionId" value="leetcode.cn196" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[196]删除重复的电子邮箱.py" />
+              <option name="titleSlug" value="delete-duplicate-emails" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[197]上升的温度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[197]上升的温度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn197" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[197]上升的温度.py" />
+              <option name="titleSlug" value="rising-temperature" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -91,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[374]猜数字大小.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[374]猜数字大小.md" />
+              <option name="frontendQuestionId" value="leetcode.cn374" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[374]猜数字大小.py" />
+              <option name="titleSlug" value="guess-number-higher-or-lower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[42]接雨水.py">
           <value>
             <LeetcodeEditor>
@@ -99,6 +154,61 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[42]接雨水.py" />
               <option name="titleSlug" value="trapping-rain-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[485]最大连续 1 的个数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[485]最大连续 1 的个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn485" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[485]最大连续 1 的个数.py" />
+              <option name="titleSlug" value="max-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[547]省份数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[547]省份数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn547" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[547]省份数量.py" />
+              <option name="titleSlug" value="number-of-provinces" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[633]平方数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[633]平方数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn633" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[633]平方数之和.py" />
+              <option name="titleSlug" value="sum-of-square-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[674]最长连续递增序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[674]最长连续递增序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn674" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[674]最长连续递增序列.py" />
+              <option name="titleSlug" value="longest-continuous-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[705]设计哈希集合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[705]设计哈希集合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn705" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[705]设计哈希集合.py" />
+              <option name="titleSlug" value="design-hashset" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -121,6 +231,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[88]合并两个有序数组.py" />
               <option name="titleSlug" value="merge-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[941]有效的山脉数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[941]有效的山脉数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn941" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[941]有效的山脉数组.py" />
+              <option name="titleSlug" value="valid-mountain-array" />
             </LeetcodeEditor>
           </value>
         </entry>

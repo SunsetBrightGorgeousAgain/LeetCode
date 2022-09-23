@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="更新代码">
-      <change beforePath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/doc/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +39,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.2.爬楼梯">
     <configuration name="2.爬楼梯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -140,9 +140,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.爬楼梯" />
-        <item itemvalue="Python.[1046]最后一块石头的重量" />
         <item itemvalue="Python.[326]3的幂" />
+        <item itemvalue="Python.[1046]最后一块石头的重量" />
+        <item itemvalue="Python.2.爬楼梯" />
       </list>
     </recent_temporary>
   </component>

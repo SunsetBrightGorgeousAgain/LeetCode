@@ -3,3 +3,6 @@ b = [1, 243]
 # a.append(b)
 a = a+b
 print(a)
+
+a.extend(b)
+print(a)

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="更新代码">
+=======
+    <list default="true" id="bbc1eae2-b526-4d2c-807d-d3368e3d5b52" name="Changes" comment="哈西表的实现,最大连续数量">
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[941]有效的山脉数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/doc/content/[941]有效的山脉数组.md" afterDir="false" />
+>>>>>>> 84a971cf25841cdada91f3409cfb9e3c57b08021
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +33,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1w47SQYKIz7LLVE0HaXMdXY41j0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,6 +44,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -67,6 +77,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Code/ip-mgmt-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;labuladong.id&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.append的使用">
+>>>>>>> 84a971cf25841cdada91f3409cfb9e3c57b08021
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,20 +109,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[1046]最后一块石头的重量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="练习" />
+    <configuration name="[17]电话号码的字母组合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/[1046]最后一块石头的重量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[17]电话号码的字母组合.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,20 +130,82 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[326]3的幂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="练习" />
+    <configuration name="[633]平方数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/cn/leetcode/editor/cn/[326]3的幂.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[633]平方数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[674]最长连续递增序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[674]最长连续递增序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[941]有效的山脉数组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/editor/leetcode/editor/cn/[941]有效的山脉数组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="append的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础/append的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,15 +216,25 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.[326]3的幂" />
-      <item itemvalue="Python.[1046]最后一块石头的重量" />
-      <item itemvalue="Python.2.爬楼梯" />
+      <item itemvalue="Python.append的使用" />
+      <item itemvalue="Python.[941]有效的山脉数组" />
+      <item itemvalue="Python.[633]平方数之和" />
+      <item itemvalue="Python.[674]最长连续递增序列" />
+      <item itemvalue="Python.[17]电话号码的字母组合" />
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.[326]3的幂" />
         <item itemvalue="Python.[1046]最后一块石头的重量" />
         <item itemvalue="Python.2.爬楼梯" />
+=======
+        <item itemvalue="Python.append的使用" />
+        <item itemvalue="Python.[941]有效的山脉数组" />
+        <item itemvalue="Python.[674]最长连续递增序列" />
+        <item itemvalue="Python.[633]平方数之和" />
+        <item itemvalue="Python.[17]电话号码的字母组合" />
+>>>>>>> 84a971cf25841cdada91f3409cfb9e3c57b08021
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +269,49 @@
       <option name="project" value="LOCAL" />
       <updated>1631805719020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11盛水,其实就是底部长度*左右Y轴的短板(数值小的),所以说当底部长度变短的时候,向中间移动的时候,如果移动短边,面积只可能变小,所以要移动长边">
+      <created>1652952832776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652952832776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9">
+      <created>1654847514427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654847514427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="19 感觉是使用了回溯,">
+      <created>1660551024884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660551024884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="17 感觉是使用了回溯,">
+      <created>1660551046601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660551046601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="146 LRU缓存机制(使用了有序字典解决的)">
+      <created>1661335663538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661335663538</updated>
+    </task>
+    <task id="LOCAL-00009" summary="哈西表的实现,最大连续数量">
+      <created>1661849013753</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661849013753</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,12 +327,17 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="0是一个特殊数值，1是3的0次方，也就是0次幂" />
     <MESSAGE value="更新代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新代码" />
+    <MESSAGE value="11盛水,其实就是底部长度*左右Y轴的短板(数值小的),所以说当底部长度变短的时候,向中间移动的时候,如果移动短边,面积只可能变小,所以要移动长边" />
+    <MESSAGE value="258 各位相加其实主要是要考虑好边界条件,是当大于等于10而不是9" />
+    <MESSAGE value="19 感觉是使用了回溯," />
+    <MESSAGE value="17 感觉是使用了回溯," />
+    <MESSAGE value="146 LRU缓存机制(使用了有序字典解决的)" />
+    <MESSAGE value="哈西表的实现,最大连续数量" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈西表的实现,最大连续数量" />
   </component>
 </project>

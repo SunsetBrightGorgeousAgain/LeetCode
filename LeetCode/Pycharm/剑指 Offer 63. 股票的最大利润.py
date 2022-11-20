@@ -32,6 +32,24 @@ class Solution:
 
 class Solution:
     def maxProfit(self, prices) -> int:
+        if len(prices) <= 1:
+            return 0
+        res = prices[0]
+        min_num = prices[0]
+        for i in range(1, len(prices)):
+            if prices[i] <= min_num:
+                min_num = prices[i]
+            if prices[i] - min_num >= res:
+                res = prices[i] - min_num
+        return res
+
+
+A = Solution()
+print(A.maxProfit([7, 1, 5, 3, 6, 4]))
+
+"""
+class Solution:
+    def maxProfit(self, prices) -> int:
         price_lens = len(prices)
         if len(prices) <= 1:
             return 0
@@ -43,7 +61,4 @@ class Solution:
             if prices[i] < min_num:
                 min_num = prices[i]
         return need_num
-
-
-A = Solution()
-print(A.maxProfit([7, 1, 5, 3, 6, 4]))
+"""
